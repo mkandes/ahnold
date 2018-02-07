@@ -1,0 +1,33 @@
+NAME
+
+    ahnold
+
+DESCRIPTION
+
+    A repository of batch job scripts for benchmarking many of the most
+    popular scientific, engineering, and technical software applicaions
+    you need to run on high-performance computing systems.
+
+STATUS
+
+    A work in progress.
+
+CONTRIBUTE
+
+    If you would like to contribute one of your own batch job scripts
+    for a target application and system, please submit a pull request.
+
+AUTHOR
+
+    Marty Kandes, Ph.D.
+    Computational & Data Science Research Specialist
+    HPC User Services Group, San Diego Supercomputer Center
+    University of California, San Diego
+
+VERSION
+
+    0.0.1
+
+LAST UPDATED
+
+    Wednesday, Feburary 7th, 2018

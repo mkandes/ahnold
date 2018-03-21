@@ -5,7 +5,7 @@ NAME
 DESCRIPTION
 
     A repository of batch job scripts for benchmarking many of the most
-    popular scientific, engineering, and technical software applicaions
+    popular scientific, engineering, and technical software applications
     you need to run on high-performance computing systems.
 
 STATUS
@@ -26,8 +26,8 @@ AUTHOR
 
 VERSION
 
-    0.0.1
+    0.0.2
 
 LAST UPDATED
 
-    Wednesday, Feburary 7th, 2018
+    Wednesday, March 21st, 2018

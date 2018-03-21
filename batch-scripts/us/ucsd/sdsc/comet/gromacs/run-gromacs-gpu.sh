@@ -51,7 +51,7 @@
 #
 # LAST UPDATED
 #
-#     Tuesday, February 6th, 2018
+#     Wednesday, March 21st, 2018
 #
 # ----------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ time -p mpirun -np 1 gmx_mpi grompp \
 export OMP_NUM_THREADS=7
 time -p mpirun gmx_mpi mdrun \
   -nb gpu \
-  -pi on \
+  -pin on \
   -resethway \
   -noconfout \
   -nsteps 8000 \
